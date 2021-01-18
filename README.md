@@ -1,6 +1,6 @@
 # SM64ObjectDetection
 
-# SM64ObjectDetection
+
 
 Training Haar Cascades to recognize certain objects in Super Mario 64.
 
